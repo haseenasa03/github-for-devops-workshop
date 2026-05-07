@@ -1,0 +1,35 @@
+     git  --version                                                                                                  
+   3 ls -a                                                                                                           
+   4 dir                                                                                                             
+   5 ls                                                                                                              
+   6 git status                                                                                                      
+   7 git status                                                                                                      
+   8 git add testing.py                                                                                              
+   9 git status                                                                                                      
+  10 git commit -m "added testing file"                                                                              
+  11 git status                                                                                                      
+  12 rm testing.py                                                                                                   
+  13 ls                                                                                                              
+  14 git status                                                                                                      
+  15 git restore testing.py                                                                                          
+  16 rm testing.py                                                                                                   
+  17 git restore testing.py                                                                                          
+  18 git commit -m "added testing file" 
+  git remote -v                                                                                                   
+   3 git push origin master                                                                                          
+   4 git remote set-url origin https://ghp_N0Qm76nAw0JWvJ24vZ61rdmC8pEQ9g1KOFk@github.com/github-for-devops-worksh...
+   5 git push orifn master                                                                                           
+   6 git push origin master                                                                                          
+   7 git add test.py                                                                                                 
+   8 git push orign master                                                                                           
+   9 git push origin master                                                                                          
+  10 git remote -v                                                                                                   
+  11 git remote remove origin                                                                                        
+  12 git push -u origin master                                                                                       
+  13 git remote add origin https://github.com/haseenasa03/github-for-devops-workshop.git                             
+  14 git push -u origin master                                                                                       
+  15 git add test.py                                                                                                 
+  16 git commit -m "commit2"                                                                                         
+  17 git push origin master                                                                                          
+  18 git history                                                                               
+
